@@ -6,7 +6,7 @@ Platform: Cisco Networking Academy
 Status: Completed
 Completion Date: 04/07/2025
 
-Certificate: (./cisco-introduction-to-cybersecurity.pdf)
+Certificate:cisco-certificate.jpg
 
 🔹 **Module 1: The Need for Cybersecurity**
           What is cybersecurity?
